@@ -1,0 +1,30 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;Quantidade de banheiros é ≤ 2,125?;SIM;2;NÃO;13
+2;Quantidade de quartos é ≤ 3,5?;SIM;4;NÃO;3
+4;A nota do imóvel é ≤ 6,5?SIM;6;NÃO;5
+5;O estado de preservação do imóvel é ≤ 4,5?SIM;9;NÃO;10
+6;Quantidade de banheiro é ≤ 1,25?;SIM;7;NÃO;8
+9;A nota do imóvel é ≤ 7,5?;SIM;11;NÃO;12
+13;Quantidade de quartos é ≤ 3,5?SIM;14;NÃO;15
+14;O estado de preservação do imóvel é ≤ 3,5?SIM;16;NÃO;17
+15;A nota do imóvel é ≤ 8,5?;SIM;20;NÃO21
+16;Quantidade de banheiros  ≤ 2,375?;SIM;18;NÃO;19
+20;A quantidade de quartos é ≤ 4,5?;SIM;22;NÃO;23
+21;O estado de preservação do imóvel é ≤ 3,5?;SIM;28;NÃO;29
+22;O estado de preservação do imóvel é ≤ 3,5?;SIM;24;NÃO;25
+24;A quantidade de quartos é ≤ 2,625?SIM;26;NÃO;27
+3;NÓ FOLHA;O imóvel está barato;;;
+7;NÓ FOLHA;O imóvel está caro;;;
+8;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+10;NÓ FOLHA;O imóvel está caro;;;
+11;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+12;NÓ FOLHA;O imóvel está caro;;;
+17;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+18;NÓ FOLHA;O imóvel está barato;;;
+19;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+23;NÓ FOLHA;O imóvel está barato;;;
+25;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+26;NÓ FOLHA;O imóvel está barato;;;
+27;NÓ FOLHA;O imóvel está barato;;;
+28;NÓ FOLHA;O imóvel está dentro do preço médio;;;
+29;NÓ FOLHA;O imóvel está barato;;;
